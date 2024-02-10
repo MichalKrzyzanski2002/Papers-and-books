@@ -1,1 +1,21 @@
+Computational Social Sciences:
 
+-Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings [Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings](https://aclanthology.org/N19-1304) (Demszky et al., NAACL 2019)
+
+-Can Large Language Models Transform Computational Social Science? (Ziems, C. et al. (2023) ‘Can Large Language Models Transform Computational Social Science?’, Computational Linguistics, pp. 1–53. Available at: https://doi.org/10.1162/coli_a_00502.)
+
+-Detecting fake-review buyers using network structure: Direct evidence from Amazon (He, Sherry and Hollenbeck, Brett and Overgoor, Gijs and Proserpio, Davide and Tosyali, Ali, Detecting Fake Review Buyers Using Network Structure: Direct Evidence from Amazon (June 27, 2022). USC Marshall School of Business Research Paper Sponsored by iORB, Available at SSRN: https://ssrn.com/abstract=4147920 or http://dx.doi.org/10.2139/ssrn.4147920)
+
+-Experimental evidence of massive-scale emotional contagion through social networks (Kramer AD, Guillory JE, Hancock JT. Experimental evidence of massive-scale emotional contagion through social networks. Proc Natl Acad Sci U S A. 2014 Jun 17;111(24):8788-90. doi: 10.1073/pnas.1320040111. Epub 2014 Jun 2. PMID: 24889601; PMCID: PMC4066473.)
+
+-Word embeddings quantify 100 years of gender and ethnic stereotypes (Garg, Nikhil & Schiebinger, Londa & Jurafsky, Dan & Zou, James. (2017). Word Embeddings Quantify 100 Years of Gender and Ethnic Stereotypes. Proceedings of the National Academy of Sciences. 115. 10.1073/pnas.1720347115.)
+
+-The spread of true and false news online (Vosoughi S, Roy D, Aral S. The spread of true and false news online. Science. 2018 Mar 9;359(6380):1146-1151. doi: 10.1126/science.aap9559. PMID: 29590045.)
+
+Computational Finance
+
+-Using Social Media to Identify the Effects of Congressional Viewpoints on Asset Prices (Bianchi, Francesco and Gomez Cram, Roberto and Kung, Howard, Using Social Media to Identify the Effects of Congressional Viewpoints on Asset Prices (July 14, 2023). Available at SSRN: https://ssrn.com/abstract=3823756 or http://dx.doi.org/10.2139/ssrn.3823756)
+  
+-Trillion Dollar Words: A New Financial Dataset (Shah, A., Paturi, S. and Chava, S. (2023) ‘Trillion Dollar Words: A New Financial Dataset, Task & Market Analysis’. arXiv. Available at: http://arxiv.org/abs/2305.07972 (Accessed: 10 February 2024).)
+
+-Real-time price discovery via verbal communication: Method and application to Fedspeak (Gomez Cram, Roberto and Grotteria, Marco, Real-time Price Discovery via Verbal Communication: Method and Application to Fedspeak (March 6, 2021). Journal of Financial Economics (JFE), Vol. 143, No. 3, 2022, Proceedings of Paris December 2020 Finance Meeting EUROFIDAI - ESSEC, Available at SSRN: https://ssrn.com/abstract=3613702 or http://dx.doi.org/10.2139/ssrn.3613702)
