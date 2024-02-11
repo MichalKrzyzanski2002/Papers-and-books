@@ -19,3 +19,23 @@ Computational Finance
 -Trillion Dollar Words: A New Financial Dataset (Shah, A., Paturi, S. and Chava, S. (2023) ‘Trillion Dollar Words: A New Financial Dataset, Task & Market Analysis’. arXiv. Available at: http://arxiv.org/abs/2305.07972 (Accessed: 10 February 2024).)
 
 -Real-time price discovery via verbal communication: Method and application to Fedspeak (Gomez Cram, Roberto and Grotteria, Marco, Real-time Price Discovery via Verbal Communication: Method and Application to Fedspeak (March 6, 2021). Journal of Financial Economics (JFE), Vol. 143, No. 3, 2022, Proceedings of Paris December 2020 Finance Meeting EUROFIDAI - ESSEC, Available at SSRN: https://ssrn.com/abstract=3613702 or http://dx.doi.org/10.2139/ssrn.3613702)
+
+Statistics 
+
+-The Art of Statistics: Learning from Data (https://www.amazon.com/Art-Statistics-Learning-Pelican-Books/dp/0241398630)
+
+-Stochastic Modelling and Mathematical Statistics: A Text for Statisticians and Quantitative Scientists (https://www.amazon.com/Stochastic-Modeling-Mathematical-Statistics-Statisticians/dp/1466560460)
+
+
+Systems analysis
+
+- SYSTEMANTICS. THE SYSTEMS BIBLE (https://www.amazon.com/SYSTEMANTICS-SYSTEMS-BIBLE-John-Gall-ebook/dp/B00AK1BIDM/ref=sr_1_1?keywords=systemantics&qid=1707656616&s=books&sr=1-1)
+
+-Antifragile: Things That Gain from Disorder (https://www.amazon.com/Antifragile-Things-that-Gain-Disorder-ebook/dp/B009K6DKTS/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1707656659&sr=1-1)
+
+-The Black Swan: The Impact of the Highly Improbable (https://www.amazon.com/Black-Swan-Impact-Highly-Improbable/dp/0141034599/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1707656739&sr=1-1)
+
+
+
+
+
